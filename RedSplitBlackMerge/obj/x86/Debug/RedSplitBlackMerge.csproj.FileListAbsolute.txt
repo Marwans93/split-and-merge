@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Notes\Jasin\SEM 4\Parallel Processing\Lab\RedSplitBlackMerge\RedSplitBlackMerge\bin\Debug\RedSplitBlackMerge.exe
+C:\Users\User\Desktop\Notes\Jasin\SEM 4\Parallel Processing\Lab\RedSplitBlackMerge\RedSplitBlackMerge\bin\Debug\RedSplitBlackMerge.pdb
+C:\Users\User\Desktop\Notes\Jasin\SEM 4\Parallel Processing\Lab\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.exe
+C:\Users\User\Desktop\Notes\Jasin\SEM 4\Parallel Processing\Lab\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.pdb
+C:\Users\User\Desktop\Notes\Jasin\SEM 4\Parallel Processing\Lab\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.csprojResolveAssemblyReference.cache
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.exe
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.pdb
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.exe
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.pdb
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\bin\Debug\RedSplitBlackMerge.exe
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\bin\Debug\RedSplitBlackMerge.pdb
+C:\Users\user pc\Desktop\UiTMKJM\PART 7 SEPT2017_JAN2018\CSC580\RedSplitBlackMerge\RedSplitBlackMerge\obj\x86\Debug\RedSplitBlackMerge.csprojResolveAssemblyReference.cache
